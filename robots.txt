@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-9cod51.hsteamid.com/sitemap.xml
